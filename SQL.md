@@ -121,7 +121,7 @@ ALTER table tableName ADD INDEX indexName(columnName)
 
 编写一条 CREATE TABLE 语句，用来创建一个包含表 1-A 中所列各项的表 Addressbook （地址簿），并为 regist_no （注册编号）列设置主键约束
 
-![图片](C:\Users\jsd2002\Desktop\img\ch01.04习题1-1690016745749-3.png)
+![图片](./img/ch01.04习题1-1690016745749-3.png)
 
 ```mysql
 CREATE TABLE Addressbook
@@ -135,7 +135,7 @@ PRIMARY KEY (regist_no));
 
 结果如下：
 
-![image-20230722172149257](C:\Users\jsd2002\Desktop\img\image-20230722172149257.png)
+![image-20230722172149257](./img/image-20230722172149257.png)
 
 #### 1.2
 
